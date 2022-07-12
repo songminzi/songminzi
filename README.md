@@ -4,7 +4,7 @@
 
 ### about 
 <a href="https://velog.io/@songminzy" target="_blank"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="email:willvi3419@gmail.com" target="_blank"><img src="https://img.shields.io/badge/willvi3419@gmail.com-EA4335?style=flat&logo=willvi3419@gmail.com&logoColor=white"/></a>
+<a href="mailto:willvi3419@gmail.com" target="_blank"><img src="https://img.shields.io/badge/willvi3419@gmail.com-EA4335?style=flat&logo=willvi3419@gmail.com&logoColor=white"/></a>
 ### stack
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
