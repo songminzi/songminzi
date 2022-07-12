@@ -24,3 +24,6 @@
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>
+
+### email
+<img src="https://img.shields.io/badge/My email-EA4335?style=flat&logo=My email&logoColor=white"/></a>
