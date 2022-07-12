@@ -12,3 +12,15 @@
 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>
+
+### tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000?style=flat&logo=Notion&logoColor=white"/></a>
+
+### etc
+<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>
