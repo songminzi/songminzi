@@ -1,5 +1,5 @@
-# songminzy
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=220&section=header&text=songminzy's%20GitHub&fontSize=50&animation=scaleIn)
+# songminzi
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=220&section=header&text=songminzi's%20GitHub&fontSize=50&animation=scaleIn)
 
 
 ### about 
