@@ -10,7 +10,7 @@
 </details>
 
 ### 인프라, 협업 도구
-[![My Skills](https://skillicons.dev/icons?i=aws,postman,vscode,yarn,npm,nginx,jenkins,docker,figma,xd&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,postman,vscode,webstorm,idea,yarn,npm,nginx,jenkins,docker,figma,xd&theme=light)](https://skillicons.dev)
 
 ---
 <a href="https://velog.io/@songminzy" target="_blank"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
